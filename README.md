@@ -1,4 +1,4 @@
-# Kalman-filter-based multichannel linear prediction algorithm 
+# Kalman-filter-based multichannel linear prediction algorithm for speech dereverberation 
 
 ## Exemplary audio samples.
 - reverberant.wav  
